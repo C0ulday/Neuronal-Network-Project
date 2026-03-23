@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/scoulibaly/ibex-demo-system/sw/c/common/crt0.S
+demo_system_regs.h
+/home/scoulibaly/ibex-demo-system/sw/c/common/demo_system_regs.h
+
+/home/scoulibaly/ibex-demo-system/sw/c/common/demo_system_regs.h
+

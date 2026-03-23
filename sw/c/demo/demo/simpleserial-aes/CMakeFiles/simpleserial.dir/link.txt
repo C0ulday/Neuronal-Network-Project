@@ -1,0 +1,2 @@
+/opt/local/scoulibaly/riscv-toolchain/lowrisc-toolchain-rv32imcb-20220210-1/bin/riscv32-unknown-elf-ar qc libsimpleserial.a "CMakeFiles/simpleserial.dir/home/scoulibaly/ibex-demo-system/vendor/newae/simpleserial/simpleserial.c.obj" "CMakeFiles/simpleserial.dir/home/scoulibaly/ibex-demo-system/vendor/newae/hal/ibex/ibex_hal.c.obj"
+/opt/local/scoulibaly/riscv-toolchain/lowrisc-toolchain-rv32imcb-20220210-1/bin/riscv32-unknown-elf-ranlib libsimpleserial.a

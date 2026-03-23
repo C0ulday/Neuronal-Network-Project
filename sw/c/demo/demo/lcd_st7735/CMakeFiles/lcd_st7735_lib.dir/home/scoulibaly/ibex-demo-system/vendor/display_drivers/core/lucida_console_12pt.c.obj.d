@@ -1,0 +1,11 @@
+demo/lcd_st7735/CMakeFiles/lcd_st7735_lib.dir/home/scoulibaly/ibex-demo-system/vendor/display_drivers/core/lucida_console_12pt.c.obj: \
+ /home/scoulibaly/ibex-demo-system/vendor/display_drivers/core/lucida_console_12pt.c \
+ /home/scoulibaly/ibex-demo-system/vendor/display_drivers/core/lucida_console_12pt.h \
+ /opt/local/scoulibaly/riscv-toolchain/lowrisc-toolchain-rv32imcb-20220210-1/lib/gcc/riscv32-unknown-elf/10.2.0/include/stdint.h \
+ /opt/local/scoulibaly/riscv-toolchain/lowrisc-toolchain-rv32imcb-20220210-1/riscv32-unknown-elf/sys-include/stdint.h \
+ /opt/local/scoulibaly/riscv-toolchain/lowrisc-toolchain-rv32imcb-20220210-1/riscv32-unknown-elf/sys-include/machine/_default_types.h \
+ /opt/local/scoulibaly/riscv-toolchain/lowrisc-toolchain-rv32imcb-20220210-1/riscv32-unknown-elf/sys-include/sys/features.h \
+ /opt/local/scoulibaly/riscv-toolchain/lowrisc-toolchain-rv32imcb-20220210-1/riscv32-unknown-elf/sys-include/_newlib_version.h \
+ /opt/local/scoulibaly/riscv-toolchain/lowrisc-toolchain-rv32imcb-20220210-1/riscv32-unknown-elf/sys-include/sys/_intsup.h \
+ /opt/local/scoulibaly/riscv-toolchain/lowrisc-toolchain-rv32imcb-20220210-1/riscv32-unknown-elf/sys-include/sys/_stdint.h \
+ /home/scoulibaly/ibex-demo-system/vendor/display_drivers/core/font.h

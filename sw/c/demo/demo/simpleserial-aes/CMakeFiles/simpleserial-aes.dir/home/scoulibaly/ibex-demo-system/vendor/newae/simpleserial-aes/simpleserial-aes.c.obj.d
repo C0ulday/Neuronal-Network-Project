@@ -1,0 +1,25 @@
+demo/simpleserial-aes/CMakeFiles/simpleserial-aes.dir/home/scoulibaly/ibex-demo-system/vendor/newae/simpleserial-aes/simpleserial-aes.c.obj: \
+ /home/scoulibaly/ibex-demo-system/vendor/newae/simpleserial-aes/simpleserial-aes.c \
+ /home/scoulibaly/ibex-demo-system/sw/c/demo/simpleserial-aes/../../../../vendor/newae/crypto/aes-independant.h \
+ /opt/local/scoulibaly/riscv-toolchain/lowrisc-toolchain-rv32imcb-20220210-1/lib/gcc/riscv32-unknown-elf/10.2.0/include/stdint.h \
+ /opt/local/scoulibaly/riscv-toolchain/lowrisc-toolchain-rv32imcb-20220210-1/lib/gcc/riscv32-unknown-elf/10.2.0/include/stdint-gcc.h \
+ /home/scoulibaly/ibex-demo-system/sw/c/demo/simpleserial-aes/../../../../vendor/newae/simpleserial/simpleserial.h \
+ /opt/local/scoulibaly/riscv-toolchain/lowrisc-toolchain-rv32imcb-20220210-1/riscv32-unknown-elf/sys-include/stdlib.h \
+ /opt/local/scoulibaly/riscv-toolchain/lowrisc-toolchain-rv32imcb-20220210-1/riscv32-unknown-elf/sys-include/machine/ieeefp.h \
+ /opt/local/scoulibaly/riscv-toolchain/lowrisc-toolchain-rv32imcb-20220210-1/riscv32-unknown-elf/sys-include/_ansi.h \
+ /opt/local/scoulibaly/riscv-toolchain/lowrisc-toolchain-rv32imcb-20220210-1/riscv32-unknown-elf/sys-include/newlib.h \
+ /opt/local/scoulibaly/riscv-toolchain/lowrisc-toolchain-rv32imcb-20220210-1/riscv32-unknown-elf/sys-include/_newlib_version.h \
+ /opt/local/scoulibaly/riscv-toolchain/lowrisc-toolchain-rv32imcb-20220210-1/riscv32-unknown-elf/sys-include/sys/config.h \
+ /opt/local/scoulibaly/riscv-toolchain/lowrisc-toolchain-rv32imcb-20220210-1/riscv32-unknown-elf/sys-include/sys/features.h \
+ /opt/local/scoulibaly/riscv-toolchain/lowrisc-toolchain-rv32imcb-20220210-1/lib/gcc/riscv32-unknown-elf/10.2.0/include/stddef.h \
+ /opt/local/scoulibaly/riscv-toolchain/lowrisc-toolchain-rv32imcb-20220210-1/riscv32-unknown-elf/sys-include/sys/reent.h \
+ /opt/local/scoulibaly/riscv-toolchain/lowrisc-toolchain-rv32imcb-20220210-1/riscv32-unknown-elf/sys-include/_ansi.h \
+ /opt/local/scoulibaly/riscv-toolchain/lowrisc-toolchain-rv32imcb-20220210-1/riscv32-unknown-elf/sys-include/sys/_types.h \
+ /opt/local/scoulibaly/riscv-toolchain/lowrisc-toolchain-rv32imcb-20220210-1/riscv32-unknown-elf/sys-include/machine/_types.h \
+ /opt/local/scoulibaly/riscv-toolchain/lowrisc-toolchain-rv32imcb-20220210-1/riscv32-unknown-elf/sys-include/machine/_default_types.h \
+ /opt/local/scoulibaly/riscv-toolchain/lowrisc-toolchain-rv32imcb-20220210-1/riscv32-unknown-elf/sys-include/sys/lock.h \
+ /opt/local/scoulibaly/riscv-toolchain/lowrisc-toolchain-rv32imcb-20220210-1/riscv32-unknown-elf/sys-include/sys/cdefs.h \
+ /opt/local/scoulibaly/riscv-toolchain/lowrisc-toolchain-rv32imcb-20220210-1/riscv32-unknown-elf/sys-include/machine/stdlib.h \
+ /opt/local/scoulibaly/riscv-toolchain/lowrisc-toolchain-rv32imcb-20220210-1/riscv32-unknown-elf/sys-include/alloca.h \
+ /home/scoulibaly/ibex-demo-system/sw/c/demo/simpleserial-aes/../../../../vendor/newae/hal/hal.h \
+ /home/scoulibaly/ibex-demo-system/sw/c/demo/simpleserial-aes/../../../../vendor/newae/hal/ibex/ibex_hal.h

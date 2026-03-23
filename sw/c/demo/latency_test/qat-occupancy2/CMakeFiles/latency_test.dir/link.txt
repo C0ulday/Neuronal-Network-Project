@@ -1,0 +1,1 @@
+/usr/lib64/ccache/cc -rdynamic CMakeFiles/latency_test.dir/main.o "CMakeFiles/latency_test.dir/hybrid-simple.o" -o latency_test  -lcommon 

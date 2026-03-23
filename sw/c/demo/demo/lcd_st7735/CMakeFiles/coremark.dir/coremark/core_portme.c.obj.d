@@ -1,0 +1,35 @@
+demo/lcd_st7735/CMakeFiles/coremark.dir/coremark/core_portme.c.obj: \
+ /home/scoulibaly/ibex-demo-system/sw/c/demo/lcd_st7735/coremark/core_portme.c \
+ /home/scoulibaly/ibex-demo-system/sw/c/demo/lcd_st7735/../../../../vendor/lowrisc_ibex/examples/sw/benchmarks/coremark/ibex/core_portme.h \
+ /opt/local/scoulibaly/riscv-toolchain/lowrisc-toolchain-rv32imcb-20220210-1/riscv32-unknown-elf/sys-include/sys/types.h \
+ /opt/local/scoulibaly/riscv-toolchain/lowrisc-toolchain-rv32imcb-20220210-1/riscv32-unknown-elf/sys-include/_ansi.h \
+ /opt/local/scoulibaly/riscv-toolchain/lowrisc-toolchain-rv32imcb-20220210-1/riscv32-unknown-elf/sys-include/newlib.h \
+ /opt/local/scoulibaly/riscv-toolchain/lowrisc-toolchain-rv32imcb-20220210-1/riscv32-unknown-elf/sys-include/_newlib_version.h \
+ /opt/local/scoulibaly/riscv-toolchain/lowrisc-toolchain-rv32imcb-20220210-1/riscv32-unknown-elf/sys-include/sys/config.h \
+ /opt/local/scoulibaly/riscv-toolchain/lowrisc-toolchain-rv32imcb-20220210-1/riscv32-unknown-elf/sys-include/machine/ieeefp.h \
+ /opt/local/scoulibaly/riscv-toolchain/lowrisc-toolchain-rv32imcb-20220210-1/riscv32-unknown-elf/sys-include/sys/features.h \
+ /opt/local/scoulibaly/riscv-toolchain/lowrisc-toolchain-rv32imcb-20220210-1/riscv32-unknown-elf/sys-include/sys/cdefs.h \
+ /opt/local/scoulibaly/riscv-toolchain/lowrisc-toolchain-rv32imcb-20220210-1/riscv32-unknown-elf/sys-include/machine/_default_types.h \
+ /opt/local/scoulibaly/riscv-toolchain/lowrisc-toolchain-rv32imcb-20220210-1/lib/gcc/riscv32-unknown-elf/10.2.0/include/stddef.h \
+ /opt/local/scoulibaly/riscv-toolchain/lowrisc-toolchain-rv32imcb-20220210-1/riscv32-unknown-elf/sys-include/machine/_types.h \
+ /opt/local/scoulibaly/riscv-toolchain/lowrisc-toolchain-rv32imcb-20220210-1/riscv32-unknown-elf/sys-include/sys/_types.h \
+ /opt/local/scoulibaly/riscv-toolchain/lowrisc-toolchain-rv32imcb-20220210-1/riscv32-unknown-elf/sys-include/sys/_stdint.h \
+ /opt/local/scoulibaly/riscv-toolchain/lowrisc-toolchain-rv32imcb-20220210-1/riscv32-unknown-elf/sys-include/machine/endian.h \
+ /opt/local/scoulibaly/riscv-toolchain/lowrisc-toolchain-rv32imcb-20220210-1/riscv32-unknown-elf/sys-include/machine/_endian.h \
+ /opt/local/scoulibaly/riscv-toolchain/lowrisc-toolchain-rv32imcb-20220210-1/riscv32-unknown-elf/sys-include/sys/select.h \
+ /opt/local/scoulibaly/riscv-toolchain/lowrisc-toolchain-rv32imcb-20220210-1/riscv32-unknown-elf/sys-include/sys/_sigset.h \
+ /opt/local/scoulibaly/riscv-toolchain/lowrisc-toolchain-rv32imcb-20220210-1/riscv32-unknown-elf/sys-include/sys/_timeval.h \
+ /opt/local/scoulibaly/riscv-toolchain/lowrisc-toolchain-rv32imcb-20220210-1/riscv32-unknown-elf/sys-include/sys/timespec.h \
+ /opt/local/scoulibaly/riscv-toolchain/lowrisc-toolchain-rv32imcb-20220210-1/riscv32-unknown-elf/sys-include/sys/_timespec.h \
+ /opt/local/scoulibaly/riscv-toolchain/lowrisc-toolchain-rv32imcb-20220210-1/riscv32-unknown-elf/sys-include/sys/_pthreadtypes.h \
+ /opt/local/scoulibaly/riscv-toolchain/lowrisc-toolchain-rv32imcb-20220210-1/riscv32-unknown-elf/sys-include/sys/sched.h \
+ /opt/local/scoulibaly/riscv-toolchain/lowrisc-toolchain-rv32imcb-20220210-1/riscv32-unknown-elf/sys-include/machine/types.h \
+ /home/scoulibaly/ibex-demo-system/sw/c/demo/lcd_st7735/../../../../vendor/lowrisc_ibex/vendor/eembc_coremark/coremark.h \
+ /home/scoulibaly/ibex-demo-system/sw/c/common/demo_system.h \
+ /opt/local/scoulibaly/riscv-toolchain/lowrisc-toolchain-rv32imcb-20220210-1/lib/gcc/riscv32-unknown-elf/10.2.0/include/stdint.h \
+ /opt/local/scoulibaly/riscv-toolchain/lowrisc-toolchain-rv32imcb-20220210-1/riscv32-unknown-elf/sys-include/stdint.h \
+ /opt/local/scoulibaly/riscv-toolchain/lowrisc-toolchain-rv32imcb-20220210-1/riscv32-unknown-elf/sys-include/sys/_intsup.h \
+ /home/scoulibaly/ibex-demo-system/sw/c/common/demo_system_regs.h \
+ /home/scoulibaly/ibex-demo-system/sw/c/common/gpio.h \
+ /home/scoulibaly/ibex-demo-system/sw/c/common/uart.h \
+ /home/scoulibaly/ibex-demo-system/sw/c/common/timer.h
