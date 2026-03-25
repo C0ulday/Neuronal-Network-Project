@@ -5,7 +5,7 @@ This report presents the implementation and evaluation of a RISC‑V‑based sys
 
 <img width="331" height="111" alt="diag" src="https://github.com/user-attachments/assets/a069f91d-0483-4457-99c2-942061728a56" />  
 
-We benchmarked three quantized neural networks (qat‑occupancy, qat‑occupancy2, and qat‑mnist‑odd), each with two implementations (reference and hybrid), measuring round‑trip latency for 50 samples per configuration. Our results show that both implementations achieve similar performance, with inference times ranging from 0.16 ms for the small occupancy networks to 13.4 ms for the larger MNIST classifier. The reference implementation is recommended, as it provides equivalent performance with simpler code.  
+I benchmarked three quantized neural networks (qat‑occupancy, qat‑occupancy2, and qat‑mnist‑odd), each with two implementations (reference and hybrid), measuring round‑trip latency for 50 samples per configuration. The results show that both implementations achieve similar performance, with inference times ranging from 0.16 ms for the small occupancy networks to 13.4 ms for the larger MNIST classifier. The reference implementation is recommended, as it provides equivalent performance with simpler code.  
 
 ![a7eb7e8d0d177830a8291508dbf830744d609825](https://github.com/user-attachments/assets/2fbffc97-06cd-4ef1-8f5b-0cac826d9464)  
 
